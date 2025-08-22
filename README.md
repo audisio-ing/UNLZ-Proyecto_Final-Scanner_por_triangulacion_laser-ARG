@@ -18,3 +18,6 @@ Se presentará un prototipo que cuente con una cinta de transporte funcional cap
 El sistema contará con tres variantes de piezas funcionales con cualidades únicas para comprobar el funcionamiento del sistema.
 
 La estación de escaneo 3D será capaz de escanear al menos 3 caras de la pieza, obteniendo una nube de puntos de la misma, con la cual luego formaremos un mallado acorde para ser comparado con la pieza patrón. El porcentaje de similitud con la misma determinará si la pieza es descartada o almacenada en su lugar de inventario correspondiente.
+fotos/Captura de pantalla 2025-08-22 143229.png
+fotos/Captura de pantalla 2025-08-22 143229.png
+fotos/Captura de pantalla 2025-08-22 143229.png
