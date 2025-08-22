@@ -1,15 +1,15 @@
 # UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG
 
-MOTIVACIÓN
+## MOTIVACIÓN
 
 Buscamos desarrollar una solución innovadora para el control de calidad, un nuevo enfoque que permita un control detallado pieza por pieza asegurándose de que el producto final cumpla con los estándares requeridos. Garantizar la precisión, consistencia y velocidad en la detección de defectos y variaciones en las piezas.
 
-DESCRIPCIÓN DE LA PROPUESTA
+## DESCRIPCIÓN DE LA PROPUESTA
 
 Una linea de produccion, en la que se apoya una pieza y es llevada hasta la posicion en la que va a ser escanada. Recien ahí comienza el escaneo, que consta de que la camara junto al laser giran alrededor de la pieza gracias a un mecanismo controlado por un motor paso a paso.
 Una vez finalizado el escaneo, el software determina que pieza es, y si contiene fallas significativas
 
-ALCANCE
+## ALCANCE
 
 Al fin de la cursada se presentará un prototipo funcional del sistema que cumpla de forma eficaz la tarea propuesta, no podemos asegurar un funcionamiento eficiente ya que el mismo dependerá de los componentes que seamos capaces de obtener.
 
