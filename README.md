@@ -33,6 +33,7 @@ El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran
 
 ## CONEXIONES DEL MICROCONTROLADOR
 <img width="1103" height="777" alt="Image" src="https://github.com/user-attachments/assets/fa147799-5c2c-4f28-8fee-f0e63797b4d2" />
+
 ## COSTO DEL PROTOTIPO, PRESUPUESTOS, PLAZOS DE ENTREGA DE MATERIALES
 
 A continuación se incluye el BOM (Bill of Materials) que detalla los materiales necesarios para la realización del proyecto, junto con sus respectivos valores, tiempos de entrega y proveedores tanto en pesos y dólares, presentando alternativas de cada uno.
