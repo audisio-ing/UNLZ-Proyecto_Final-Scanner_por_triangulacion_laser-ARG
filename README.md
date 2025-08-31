@@ -38,6 +38,7 @@ El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran
 
 A continuación se incluye el BOM (Bill of Materials) que detalla los materiales necesarios para la realización del proyecto, junto con sus respectivos valores, tiempos de entrega y proveedores tanto en pesos y dólares, presentando alternativas de cada uno.
 
+(tabla de BOM)
 
 ## CRONOGRAMA DE TRABAJO
 
