@@ -29,7 +29,7 @@ El sistema será capaz de mover una pieza por una línea de producción y ubicar
 
 El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran escala, los pasos a seguir y el resultado esperado de cada uno:
 
-<img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Diagrama%20de%20Bloques.png" />
+<img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Diagrama%20de%20Bloques%20fondo.png" />
 
 ## CONEXIONES DEL MICROCONTROLADOR
 <img width="1103" height="777" alt="Image" src="https://github.com/user-attachments/assets/fa147799-5c2c-4f28-8fee-f0e63797b4d2" />
