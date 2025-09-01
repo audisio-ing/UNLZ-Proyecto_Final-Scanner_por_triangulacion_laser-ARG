@@ -32,7 +32,8 @@ El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran
 <img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Diagrama%20de%20Bloques%20fondo.png" />
 
 ## CONEXIONES DEL MICROCONTROLADOR
-[<img width="1103" height="777" alt="Image" src="https://github.com/user-attachments/assets/fa147799-5c2c-4f28-8fee-f0e63797b4d2" />](https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Captura%20de%20pantalla%202025-09-01%20185708.png)
+
+<img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Captura%20de%20pantalla%202025-09-01%20185708.png" />
 
 ## COSTO DEL PROTOTIPO, PRESUPUESTOS, PLAZOS DE ENTREGA DE MATERIALES
 
