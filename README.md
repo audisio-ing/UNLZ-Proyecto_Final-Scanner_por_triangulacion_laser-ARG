@@ -1,5 +1,7 @@
 # UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG
-
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/LOGO%20AZUL%20HORIZONTAL%20-%20fondo%20transparente.png">
+</p>
 ## MOTIVACIÓN
 
 Buscamos desarrollar una solución innovadora para el control de calidad, un nuevo enfoque que permita un control detallado pieza por pieza asegurándose de que el producto final cumpla con los estándares requeridos. Garantizar la precisión, consistencia y velocidad en la detección de defectos y variaciones en las piezas.
