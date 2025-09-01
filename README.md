@@ -39,7 +39,7 @@ El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran
 
 A continuación se incluye el BOM (Bill of Materials) que detalla los materiales necesarios para la realización del proyecto, junto con sus respectivos valores, tiempos de entrega y proveedores tanto en pesos y dólares, presentando alternativas de cada uno.
 
-<img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/BOM.png" />
+<img width="1066" height="746" alt="Image" src="https://github.com/user-attachments/assets/bfa12b66-d8bf-4085-973b-f410c8f8500e" />
 
 ## CRONOGRAMA DE TRABAJO
 
