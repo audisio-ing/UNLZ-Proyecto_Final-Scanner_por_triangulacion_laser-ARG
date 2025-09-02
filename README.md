@@ -48,5 +48,7 @@ A continuación se incluye el BOM (Bill of Materials) que detalla los materiales
 
 A continuación se incluye el diagrama de Gantt a seguir durante el proyecto
 
-(foto del gantt)
+<img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Gantt.png" />
+
+
 
