@@ -77,5 +77,33 @@ A continuación se incluye el diagrama de Gantt a seguir durante el proyecto
 
 <img width="1103" height="777" alt="Image" src="https://github.com/audisio-ing/UNLZ-Proyecto_Final-Scanner_por_triangulacion_laser-ARG/blob/main/fotos/Gantt.png" />
 
+<h3>Funcionalidades a presentar en cada hito</h3>
+<p>A continuación se detallan las funcionalidades a presentar en cada hito</p>
+
+<table>
+  <tr>
+    <th>Hito</th>
+    <th>Fecha a cumplir</th>
+    <th>Funcionalidades</th>
+  </tr>
+  <tr>
+    <td><strong>Primera entrega</strong></td>
+    <td><em>22/09/25</em></td>
+    <td>
+      Secuencia de escaneo funcional, conexión con Python y visualización de datos.  
+      Cinta transportadora funcional.
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Segunda entrega</strong></td>
+    <td><em>20/10/25</em></td>
+    <td>
+      Secuencia completa, comparación de nube de puntos.  
+      Sensores funcionales.
+    </td>
+  </tr>
+</table>
+
+
 
 
