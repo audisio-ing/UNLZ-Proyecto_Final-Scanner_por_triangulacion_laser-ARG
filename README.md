@@ -42,6 +42,33 @@ El siguiente diagrama de bloques muestra el diseño funcional del sistema a gran
 
 A continuación se incluye el BOM (Bill of Materials) que detalla los materiales necesarios para la realización del proyecto, junto con sus respectivos valores, tiempos de entrega y proveedores tanto en pesos y dólares, presentando alternativas de cada uno.
 
+| Cantidad | Modelo | Componente | Descripción | Precio Unitario | Precio Total ARS | Precio total USD | Proveedor | Plazo de Entrega |
+|----------|--------|------------|-------------|-----------------|------------------|------------------|-----------|------------------|
+| 2 | nema 17 | Motor paso a paso | movimiento de la línea | $26,250.00 | $52,500.00 | $40.08 | it&t | Una Semana |
+| 2 | a4988 | Controlador | Control de Motores | $4,250.00 | $8,500.00 | $6.49 | it&t | Una Semana |
+| 1 | 100uF X 50v | Capacitor | Regulación de voltaje de entrada a controladores a4988 | $185.00 | $185.00 | $0.14 | it&t | Una Semana |
+| 1 | x10 10k OHM | Resistencia | Circuito electrónico | $7,000.00 | $7,000.00 | $5.34 | it&t | Una Semana |
+| 1 | Ss495a | Sensor efecto hall | Detección de rotación de mecanismo | $4,000.00 | $4,000.00 | $3.06 | it&t | Una Semana |
+| 1 | Pcb Placa Fibra Protoboard Simple Faz 8x12 | PCB de prototipado | Conexión de controladores de motores paso a paso | $4,106.33 | $4,106.33 | $3.13 | it&t | Una Semana |
+| 1 | lote x3 iman 5mm | Iman neodimio | Inducción sensor efecto hall | $1,000.00 | $1,000.00 | $0.76 | it&t | Una Semana |
+| 1 | x10 led 5v | LED | Indicación de funcionamiento | $1,942.00 | $1,942.00 | $1.15 | it&t | Una Semana |
+| 1 | display lcd backlight azul 20 x 4 5v | Pantalla LCD | Display de información | $15,000.00 | $15,000.00 | $11.45 | it&t | Una Semana |
+| 1 | 1.75mm | 1kg PLA | Impresión de Partes | $19,000.00 | $19,000.00 | $14.50 | printALot | Una Semana |
+| 1 | UNO | Arduino | Manejo de Motores Cinta Transportadora | $9000.00 | $9000.00 | $6.9 | TodoMicro | Una Semana |
+| 1 | 12v5A | Fuente 12V | Alimentación de Motores | $12,944.00 | $12,944.00 | $9.89 | Mundo Led | Una Semana |
+| 2 | Dupont 20cm | Cable x40 | Conexión entre Componentes Arduino | $2,604.00 | $5,208.00 | $3.98 | Duaitek | Una Semana |
+| 1 | 830 Puntos | Protoboard | Placa para Componentes | $2,598.00 | $2,812.00 | $1.98 | TodoMicro | Una Semana |
+| 1 | 1m varilla roscada | Cinta Transportadora y mecanismo giratorio | Transporte de piezas y escaneo | $8,000.00 | $8,000.00 | - | - | Una Semana |
+| 6 | Rodamientos | Cinta Transportadora y mecanismo giratorio | Transporte de piezas y escaneo | $4,231.00 | $25,386.00 | $19.30 | Ingia | Una Semana |
+| 1 | perfil aluminio 2020 tipo bosch R 415mm | Mecanismo giratorio | Escaneo | $4,163.00 | - | - | Ingia | Una Semana |
+| 1 | Correa cerrada 150mm | Mecanismo giratorio | Escaneo | $6,396.00 | $6,396.00 | $4.86 | Ingia | Una Semana |
+| 1 | material determinado de cinta | Cinta Transportadora | Transporte de piezas | - | - | - | - | Una Semana |
+| 1 | 50cm tubo plastico | Cinta Transportadora | Transporte de piezas | - | - | - | - | Una Semana |
+| 1 | 80cm x 180cm de fibrofacil de 3mm espesor | Caja de escaneo | Transporte de piezas | - | - | - | - | Una Semana |
+| 1 | Perfil cuadrado de madera 2.3cm x 2.3 cm | Caja de escaneo | Transporte de piezas y Caja | - | - | - | - | Una Semana |
+
+**Total: $186,747.33 ARS — $142.56 USD**
+
 <img width="1066" height="746" alt="Image" src="https://github.com/user-attachments/assets/bfa12b66-d8bf-4085-973b-f410c8f8500e" />
 
 ## CRONOGRAMA DE TRABAJO
